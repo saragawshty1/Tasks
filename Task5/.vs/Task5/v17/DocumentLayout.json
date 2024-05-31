@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\Day4\\Task5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A36ACDB-AAEA-4492-B539-919274C45398}|Task5\\Task5.csproj|d:\\dotnet\\day4\\task5\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A36ACDB-AAEA-4492-B539-919274C45398}|Task5\\Task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A36ACDB-AAEA-4492-B539-919274C45398}|Task5\\Task5.csproj|d:\\dotnet\\day4\\task5\\task5\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A36ACDB-AAEA-4492-B539-919274C45398}|Task5\\Task5.csproj|solutionrelative:task5\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A36ACDB-AAEA-4492-B539-919274C45398}|Task5\\Task5.csproj|d:\\dotnet\\day4\\task5\\task5\\trustaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A36ACDB-AAEA-4492-B539-919274C45398}|Task5\\Task5.csproj|solutionrelative:task5\\trustaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A36ACDB-AAEA-4492-B539-919274C45398}|Task5\\Task5.csproj|d:\\dotnet\\day4\\task5\\task5\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A36ACDB-AAEA-4492-B539-919274C45398}|Task5\\Task5.csproj|solutionrelative:task5\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A36ACDB-AAEA-4492-B539-919274C45398}|Task5\\Task5.csproj|d:\\dotnet\\day4\\task5\\task5\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A36ACDB-AAEA-4492-B539-919274C45398}|Task5\\Task5.csproj|solutionrelative:task5\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A36ACDB-AAEA-4492-B539-919274C45398}|Task5\\Task5.csproj|d:\\dotnet\\day4\\task5\\task5\\accountutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A36ACDB-AAEA-4492-B539-919274C45398}|Task5\\Task5.csproj|solutionrelative:task5\\accountutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrustAccount.cs",
+              "DocumentMoniker": "D:\\DotNet\\Day4\\Task5\\Task5\\TrustAccount.cs",
+              "RelativeDocumentMoniker": "Task5\\TrustAccount.cs",
+              "ToolTip": "D:\\DotNet\\Day4\\Task5\\Task5\\TrustAccount.cs",
+              "RelativeToolTip": "Task5\\TrustAccount.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T19:36:05.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "D:\\DotNet\\Day4\\Task5\\Task5\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "Task5\\CheckingAccount.cs",
+              "ToolTip": "D:\\DotNet\\Day4\\Task5\\Task5\\CheckingAccount.cs",
+              "RelativeToolTip": "Task5\\CheckingAccount.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:23:04.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "D:\\DotNet\\Day4\\Task5\\Task5\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "Task5\\SavingsAccount.cs",
+              "ToolTip": "D:\\DotNet\\Day4\\Task5\\Task5\\SavingsAccount.cs",
+              "RelativeToolTip": "Task5\\SavingsAccount.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T19:46:05.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountUtil.cs",
+              "DocumentMoniker": "D:\\DotNet\\Day4\\Task5\\Task5\\AccountUtil.cs",
+              "RelativeDocumentMoniker": "Task5\\AccountUtil.cs",
+              "ToolTip": "D:\\DotNet\\Day4\\Task5\\Task5\\AccountUtil.cs",
+              "RelativeToolTip": "Task5\\AccountUtil.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:47:53.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Day4\\Task5\\Task5\\Program.cs",
+              "RelativeDocumentMoniker": "Task5\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Day4\\Task5\\Task5\\Program.cs*",
+              "RelativeToolTip": "Task5\\Program.cs*",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:37:18.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\DotNet\\Day4\\Task5\\Task5\\Account.cs",
+              "RelativeDocumentMoniker": "Task5\\Account.cs",
+              "ToolTip": "D:\\DotNet\\Day4\\Task5\\Task5\\Account.cs*",
+              "RelativeToolTip": "Task5\\Account.cs*",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:45:36.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\DotNet\Day4\Task5\Task5\bin\Debug\net8.0\Task5.exe
+D:\DotNet\Day4\Task5\Task5\bin\Debug\net8.0\Task5.deps.json
+D:\DotNet\Day4\Task5\Task5\bin\Debug\net8.0\Task5.runtimeconfig.json
+D:\DotNet\Day4\Task5\Task5\bin\Debug\net8.0\Task5.dll
+D:\DotNet\Day4\Task5\Task5\bin\Debug\net8.0\Task5.pdb
+D:\DotNet\Day4\Task5\Task5\obj\Debug\net8.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Day4\Task5\Task5\obj\Debug\net8.0\Task5.AssemblyInfoInputs.cache
+D:\DotNet\Day4\Task5\Task5\obj\Debug\net8.0\Task5.AssemblyInfo.cs
+D:\DotNet\Day4\Task5\Task5\obj\Debug\net8.0\Task5.csproj.CoreCompileInputs.cache
+D:\DotNet\Day4\Task5\Task5\obj\Debug\net8.0\Task5.dll
+D:\DotNet\Day4\Task5\Task5\obj\Debug\net8.0\refint\Task5.dll
+D:\DotNet\Day4\Task5\Task5\obj\Debug\net8.0\Task5.pdb
+D:\DotNet\Day4\Task5\Task5\obj\Debug\net8.0\Task5.genruntimeconfig.cache
+D:\DotNet\Day4\Task5\Task5\obj\Debug\net8.0\ref\Task5.dll

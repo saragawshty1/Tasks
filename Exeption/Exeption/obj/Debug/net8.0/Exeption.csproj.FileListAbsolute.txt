@@ -1,0 +1,14 @@
+D:\DotNet\Day4\Exeption\Exeption\bin\Debug\net8.0\Exeption.exe
+D:\DotNet\Day4\Exeption\Exeption\bin\Debug\net8.0\Exeption.deps.json
+D:\DotNet\Day4\Exeption\Exeption\bin\Debug\net8.0\Exeption.runtimeconfig.json
+D:\DotNet\Day4\Exeption\Exeption\bin\Debug\net8.0\Exeption.dll
+D:\DotNet\Day4\Exeption\Exeption\bin\Debug\net8.0\Exeption.pdb
+D:\DotNet\Day4\Exeption\Exeption\obj\Debug\net8.0\Exeption.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Day4\Exeption\Exeption\obj\Debug\net8.0\Exeption.AssemblyInfoInputs.cache
+D:\DotNet\Day4\Exeption\Exeption\obj\Debug\net8.0\Exeption.AssemblyInfo.cs
+D:\DotNet\Day4\Exeption\Exeption\obj\Debug\net8.0\Exeption.csproj.CoreCompileInputs.cache
+D:\DotNet\Day4\Exeption\Exeption\obj\Debug\net8.0\Exeption.dll
+D:\DotNet\Day4\Exeption\Exeption\obj\Debug\net8.0\refint\Exeption.dll
+D:\DotNet\Day4\Exeption\Exeption\obj\Debug\net8.0\Exeption.pdb
+D:\DotNet\Day4\Exeption\Exeption\obj\Debug\net8.0\Exeption.genruntimeconfig.cache
+D:\DotNet\Day4\Exeption\Exeption\obj\Debug\net8.0\ref\Exeption.dll
